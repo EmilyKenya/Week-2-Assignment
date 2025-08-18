@@ -1,0 +1,77 @@
+h1,h2 {
+    font-size: 30;
+    text-align: center;
+    color:brown;
+    background-color:gray;
+    margin:15px;
+    padding:5px;
+    border:2px;
+}
+
+p {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size:medium;
+    font-weight: bold;
+}
+
+ol {
+    margin:15px;
+    padding:20px;
+    font-size:18px;
+}
+
+li {
+    margin:5px;
+    padding:3px;
+    color:darkgray;
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    border: 2px solid black;
+    background: white;
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+}
+table {
+    margin: 20px;
+    border: 2px;
+    
+}
+th, td {
+    border: 2px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+form {
+    margin: 20px 0;
+    padding: 15px;
+    border: 2px;
+    background: gray;
+    font-size: 16px;
+}
+label {
+    color:black;
+    font-size: 16px;
+}
+input, select, textarea, button {
+    margin: 10px 0;
+    padding: 8px;
+    border: 1px solid #333;
+    font-size: 14px;
+    background: white;
+}
+button {
+    background: darkblue;
+    color:black;
+    border:2xp solid;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
